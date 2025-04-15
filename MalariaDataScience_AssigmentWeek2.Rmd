@@ -1,6 +1,6 @@
 ---
 title: "Malaria Data Science"
-subtitle: "Assigment - Week 2"
+subtitle: "Project - Week 2"
 author: "PETER ABUGRI"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
